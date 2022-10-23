@@ -28,6 +28,7 @@ Rendu du défi 1 de la sae crypto de l'iut d'Orléans. Il permet de décypter de
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 Pour tester le décryptages des textes, il faut lancer le fichier main.py avec python et suivre les instruction écrite dans le terminal.
+ATTENTION: Certains décryptage peuvent prendre du temps.
 
 ### Prerequisites
 
