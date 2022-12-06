@@ -57,5 +57,3 @@ Pour chaque décodage, nous implémentons des théorèmes mathématiques vue en 
 - [Depot git](https://github.com/paulJupilliat/crypto_erwan_benjamin_paul) - Depot github du projet
 
 Projet fait par le groupe Erwan MANACH, Benjamin GUERRE et Paul JUPILLIAT
-
-test pull
